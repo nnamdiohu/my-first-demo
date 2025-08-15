@@ -1,2 +1,2 @@
-# my-first-demo
+# demo-git
 for learning purposes

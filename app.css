@@ -1,0 +1,10 @@
+* {
+       
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Libertinus Sans", sans-serif;
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+} 

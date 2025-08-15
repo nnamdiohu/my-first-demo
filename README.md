@@ -1,2 +1,1 @@
-# demo-git
-for learning purposes
+this is. for learning purpose
